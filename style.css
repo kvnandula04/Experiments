@@ -1,0 +1,22 @@
+*{
+	margin:0; padding:0;
+}
+body{
+	
+}
+
+.heading{
+	margin-top:2%;
+	margin-left:3%;
+	text-transform:uppercase;
+	position:absolute;
+	color:white;
+	font-family:"Lucida Console", "Courier New", monospace;
+}
+
+#particles-js{
+	background-size:cover;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.png);
+	background-position: center;
+	height:100vh;
+}
